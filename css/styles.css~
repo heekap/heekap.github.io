@@ -594,7 +594,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "â€ë¶‹ ";
+  content: "â€”Â ";
 }
 
 .img-fluid {
@@ -11588,7 +11588,7 @@ html {
   max-width: 40rem;
 }
 .profile .profile-img {
-  height: 70vw;
+  height: 80vw;
   max-height: 45rem;
   position: absolute;
   bottom: 0;
