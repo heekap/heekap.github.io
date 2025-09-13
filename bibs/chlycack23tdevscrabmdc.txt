@@ -1,0 +1,10 @@
+@article{chlycack23tdevscrabmdc,
+author="Huh, Jaewook and Liu, Jing and Yu, Jae-Hun and Choi, Yoon Jeong and Ahn, Hee-Kap and Chung, Chooryung J. and Cha, Jung-Yul and Kim, Kyung-Ho",
+title="Three-dimensional evaluation of a virtual setup considering the roots and alveolar bone in molar distalization cases",
+journal="Scientific Reports",
+year="2023",
+volume="13",
+number="1",
+pages="14955",
+}
+

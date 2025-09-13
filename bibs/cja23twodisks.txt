@@ -1,0 +1,8 @@
+@article{cja23twodisks,
+title = {Covering convex polygons by two congruent disks},
+journal = {Computational Geometry},
+volume = {109},
+pages = {101936},
+year = {2023},
+author = {Jongmin Choi and Dahye Jeong and Hee-Kap Ahn}
+}

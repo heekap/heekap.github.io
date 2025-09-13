@@ -1,0 +1,11 @@
+@InProceedings{jyat23uccpadga,
+author="Mook Kwon Jung
+and Sang Duk Yoon
+and Hee-Kap Ahn
+and Takeshi Tokuyama",
+title="Universal convex covering problems under affine dihedral group actions",
+booktitle="35th Canadian Conference on Computational Geometry (CCCG 2023)",
+year="2023",
+pages="",
+}
+

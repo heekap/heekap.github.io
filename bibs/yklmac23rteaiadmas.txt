@@ -1,0 +1,10 @@
+@article{yklmac23rteaiadmas,
+author="Jae-Hun Yu and Ji-Hoi Kim and Jing Liu and Utkarsh Mangal and Hee-Kap Ahn and Jung-Yul Cha",
+title="Reliability and time-based efficiency of artificial intelligence-based automatic digital model analysis system",
+journal="European Journal of Orthodontics",
+year="2023",
+volume="45",
+number="6",
+pages="712--721"
+}
+

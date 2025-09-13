@@ -1,0 +1,11 @@
+@InProceedings{kcha24gptw,
+author="Byeonguk Kang
+and Junhyeok Choi
+and Jeesun Han
+and Hee-Kap Ahn",
+title="Guarding Points on a Terrain by Watchtowers",
+booktitle="36th Canadian Conference on Computational Geometry (CCCG 2024)",
+year="2024",
+pages="",
+}
+

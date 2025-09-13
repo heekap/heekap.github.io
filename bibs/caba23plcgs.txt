@@ -1,0 +1,11 @@
+@InProceedings{caba23plcgs,
+author="Chung, Chaeyoon
+and Ahn, Taehoon
+and Bae, Sang Won
+and Ahn, Hee-Kap",
+title="Parallel Line Centers with Guaranteed Separation.",
+booktitle="35th Canadian Conference on Computational Geometry (CCCG 2023)",
+year="2023",
+pages="",
+}
+

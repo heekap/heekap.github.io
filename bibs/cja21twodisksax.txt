@@ -1,0 +1,9 @@
+@misc{cja21twodisksax,
+  title = {Covering Convex Polygons by Two Congruent Disks},
+  author = {Jongmin Choi and Dahye Jung and Hee-Kap Ahn},
+ booktitle="Proceedings of 32nd International Workshop on Combinatorial Algorithms",
+year="2021",
+  eprint={2105.02483},
+  archivePrefix={arXiv},
+  primaryClass={cs.CG}
+}

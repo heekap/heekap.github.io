@@ -1,0 +1,8 @@
+@misc{jyak22covering,
+      title={Universal convex covering problems under translation and discrete rotations}, 
+      author={Mook Kwon Jung and Sang Duk Yoon and Hee-Kap Ahn and Takeshi Tokuyama},
+      year={2022},
+      eprint={2211.14807},
+      archivePrefix={arXiv},
+      primaryClass={cs.CG}
+}

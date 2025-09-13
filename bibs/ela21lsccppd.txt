@@ -1,0 +1,6 @@
+@inproceedings{ela21lsccppd,
+  title = {Largest similar copies of convex polygons in polygonal domains},
+  author = {Taekang Eom and Seungjun Lee and Hee-Kap Ahn},
+  booktitle = {Proceedings of the 41st IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2021)},
+  pages = {19:1--19:13},
+  year = {2021}}

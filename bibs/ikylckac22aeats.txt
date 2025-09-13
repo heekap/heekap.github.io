@@ -1,0 +1,9 @@
+@article{ikylckac22aeats,
+author="Joon Im and Ju-Yeong Kim and Hyung-Seog Yu and Kee-Joon Lee and Sung-Hwan Choi and Ji-Hoi Kim and Hee-Kap Ahn and Jung-Yul Cha",
+title="Accuracy and efficiency of automatic tooth segmentation in digital dental models using deep learning",
+journal="Scientific Reports",
+year="2022",
+volume="12",
+pages="9429"
+}
+

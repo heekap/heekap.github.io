@@ -1,0 +1,12 @@
+@article{ea24ltacpwcg,
+author="Taekang Eom and Hee-Kap Ahn",
+title="A linear-time algorithm for the center problem in weighted cycle graphs",
+journal="Information Processing Letters",
+year="2024",
+volume="186",
+pages="106495",
+doi = {https://doi.org/10.1016/j.ipl.2024.106495},
+url = {https://www.sciencedirect.com/science/article/pii/S0020019024000255},
+issn = {0020-0190}
+}
+

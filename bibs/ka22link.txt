@@ -1,0 +1,8 @@
+@article{ka22link,
+title = {Minimum-link shortest paths for polygons amidst rectilinear obstacles},
+journal = {Computational Geometry},
+volume = {103},
+pages = {101858},
+year = {2022},
+author = {Mincheol Kim and Hee-Kap Ahn}
+}

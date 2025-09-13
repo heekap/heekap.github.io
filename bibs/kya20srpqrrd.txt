@@ -1,0 +1,11 @@
+@InProceedings{kya20srpqrrd,
+author="Kim, Mincheol
+and Yoon, Sang Duk
+and Ahn, Hee-Kap",
+title="Shortest Rectilinear Path Queries to Rectangles in a Rectangular Domain",
+booktitle="LATIN 2020: Theoretical Informatics",
+year="2020",
+publisher="Springer International Publishing",
+pages="271--282",
+}
+

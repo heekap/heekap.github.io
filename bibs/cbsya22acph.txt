@@ -1,0 +1,6 @@
+@inproceedings{cbsya22acph,
+  title = {Approximating Convex Polygons by Histogons},
+  author = {Jaehoon Chung and Sang Won Bae and Chan-Su Shin and Sang Duk Yoon and Hee-Kap Ahn},
+  booktitle = {Proceedings of the 34th Canadian Conference on Computational Geometry (CCCG 2022)},
+  pages = {},
+  year = {2022}}

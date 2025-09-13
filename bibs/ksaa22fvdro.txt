@@ -1,0 +1,6 @@
+@inproceedings{ksaa22fvdro,
+  title = {Farthest-point Voronoi diagrams in the presence of rectangular obstacles},
+  author = {Mincheol Kim and Chanyang Seo and Taehoon Ahn and Hee-Kap Ahn},
+  booktitle = {Proceedings of the 38th International Symposium on Computational Geometry (SoCG 2022)},
+  pages = {51:1--51:15},
+  year = {2022}}

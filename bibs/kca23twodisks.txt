@@ -1,0 +1,8 @@
+@article{kca23twodisks,
+title = {Intersecting disks using two congruent disks},
+journal = {Computational Geometry},
+volume = {110},
+pages = {101966},
+year = {2023},
+author = {Byeonguk Kang and Jongmin Choi and Hee-Kap Ahn}
+}

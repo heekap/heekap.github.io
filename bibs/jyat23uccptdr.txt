@@ -1,0 +1,10 @@
+@article{jyat23uccptdr,
+author="Mook Kwon Jung and Sang Duk Yoon and Hee-Kap Ahn and Takeshi Tokuyama",
+title="Universal convex covering problems under translations and discrete rotations",
+journal="Advances in Geometry",
+year="2023",
+volume="23",
+number="4",
+pages="481--500",
+}
+

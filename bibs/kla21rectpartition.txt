@@ -1,0 +1,8 @@
+@article{kla23rectpartition,
+title = {Rectangular partitions of a rectilinear polygon},
+journal = {Computational Geometry},
+volume = {110},
+pages = {101965},
+year = {2023},
+author = {Hwi Kim and Jaegun Lee and Hee-Kap Ahn}
+}

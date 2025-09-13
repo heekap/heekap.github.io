@@ -1,0 +1,6 @@
+@inproceedings{kla22umppr,
+  title = {Uniformly Monotone Partitioning of Polygons Revisited},
+  author = {Hwi Kim and Jaegun Lee and Hee-Kap Ahn},
+  booktitle = {Proceedings of the 34th Canadian Conference on Computational Geometry (CCCG 2022)},
+  pages = {},
+  year = {2022}}

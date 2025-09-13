@@ -1,0 +1,8 @@
+@misc{kim2021minimumlink,
+      title={Minimum-Link Shortest Paths for Polygons amidst Rectilinear Obstacles}, 
+      author={Mincheol Kim and Hee-Kap Ahn},
+      year={2021},
+      eprint={2106.14185},
+      archivePrefix={arXiv},
+      primaryClass={cs.CG}
+}
