@@ -73,8 +73,8 @@
   --bs-border-radius-xl: 1rem;
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
-  --bs-link-color: #1e30f3;
-  --bs-link-hover-color: #1826c2;
+  --bs-link-color: #ff4d6d;
+  --bs-link-hover-color: #e63e63;
   --bs-code-color: #e21e80;
   --bs-highlight-bg: #fff3cd;
 }
@@ -246,7 +246,7 @@ sup {
 
 a {
   color: var(--bs-link-color);
-  text-decoration: underline;
+  text-decoration: none;
 }
 a:hover {
   color: var(--bs-link-hover-color);
@@ -594,7 +594,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "‚ÄÎ∂ã†";
+  content: "‚ÄÈÅ∫Îñä";
 }
 
 .img-fluid {
@@ -11588,7 +11588,7 @@ html {
   max-width: 40rem;
 }
 .profile .profile-img {
-  height: 70vw;
+  height: 80vw;
   max-height: 45rem;
   position: absolute;
   bottom: 0;
